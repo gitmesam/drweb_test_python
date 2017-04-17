@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<data>
+    <file name="file_1.txt">
+        <input_path>F:\OneDrive\Python\DrWeb_Test\inbox\</input_path>
+        <output_path>F:\OneDrive\Python\DrWeb_Test\outbox\</output_path>
+    </file>
+    <file name="file_2.txt">
+        <input_path>F:\OneDrive\Python\DrWeb_Test\inbox\</input_path>
+        <output_path>F:\OneDrive\Python\DrWeb_Test\outbox\</output_path>
+    </file>
+    <file name="file_3.txt">
+        <input_path>F:\OneDrive\Python\DrWeb_Test\inbox\</input_path>
+        <output_path>F:\OneDrive\Python\DrWeb_Test\outbox\</output_path>
+    </file>
+</data>
